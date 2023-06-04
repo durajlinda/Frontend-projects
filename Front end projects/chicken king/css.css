@@ -1,0 +1,46 @@
+
+body {
+  background-color: #E8703C;
+}
+#logo {
+    font-family: 'Vibur',cursive;
+    font-size: 30px;
+    background-color: #E8703C;
+  }
+
+  .textimage {
+    position: absolute;
+    width:100%;
+    text-align: center;
+    top: 50%;
+    color: white;
+  }
+
+  #toprow{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+  }
+
+  #botomrow{
+   
+    padding-bottom: 20px;
+    
+  }
+
+  #map{
+    height: 400px;
+  }
+
+  #endingsection {
+    padding-bottom: 20px;
+    background:  #8ec2ec;
+  }
+  
+  #phone {
+   background:  #8ec2ec;
+  }
+
+  #background {
+    background: #E8703C;
+  }
